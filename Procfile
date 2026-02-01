@@ -1,1 +1,1 @@
-worker: python mr44j.py
+web: gunicorn app:app
